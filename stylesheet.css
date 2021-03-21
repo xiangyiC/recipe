@@ -34,6 +34,7 @@ h1{
 body{
     margin: 0;
     background-color: 	#f5fffa;
+    
 }
 
 .picture{
@@ -42,6 +43,7 @@ body{
     padding: 0;
     margin: 0%;
    display: inline-flex;
+   overflow: hidden;
   
  
  
@@ -121,6 +123,5 @@ body{
   }
 
 }
-    
     
     
