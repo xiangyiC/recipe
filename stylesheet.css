@@ -98,5 +98,29 @@ body{
     text-align: center;
     background-color:#e6e6fa;
 }
+
+.responsive {
+    width: 100%;
+    max-width:650px;
+    height: 400px;
+  }
+
+  @media only screen and (max-width: 650px){
+  .one{
+    display: none
+  }
+  .information p{
+      font-size: 20px;
+  }
+  .word h2, .word p{
+      color: ghostwhite;
+  }
+
+  h1, .banner h2{
+      font-size: 50px;
+  }
+
+}
+    
     
     
